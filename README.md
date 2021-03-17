@@ -1,5 +1,6 @@
 # Weather Progressive Web Application
-![Weather Data](https://instagram.flko1-1.fna.fbcdn.net/v/t51.2885-19/s320x320/134560717_730044887620144_7067720835468159204_n.jpg?_nc_ht=instagram.flko1-1.fna.fbcdn.net&_nc_ohc=bdNWgjuwE9IAX9SG-HI&tp=1&oh=e1963e313a758ef1bb58cd32232fd10a&oe=601EA0CD)
+![Screenshot 2021-03-17 182301](https://user-images.githubusercontent.com/34485983/111518438-13a1d700-877c-11eb-9d23-f35c605e0379.png)
+
 
 ### [Live Site](https://akhilh2o-weather.netlify.app/)
 
